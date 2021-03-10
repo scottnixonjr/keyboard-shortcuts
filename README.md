@@ -38,3 +38,7 @@
 alt+up-arrow - move line up
 
 alt+down-arrow - move line down
+
+## Chrome Developer Tools
+
+[Guide](https://developers.google.com/web/tools/chrome-devtools/shortcuts)
